@@ -1,8 +1,11 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Daichi Yanagi
+
 import sys
 
 ans = 0
 for line in sys.stdin:
+    line = line.rstrip()
     try:
         ans += int(line)
     except:
