@@ -1,5 +1,6 @@
 # robosys202x
 ロボットシステム学の練習リポジトリ
+このリポジトリにはplusとnumsとtest.bashが含まれている
 
 # plusコマンド
 ![test](https://github.com/Yanagi1301/robosys202x/actions/workflows/test.yml/badge.svg)
